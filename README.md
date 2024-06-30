@@ -50,7 +50,6 @@ The project uses various datasets for training and testing the models. The datas
 git clone https://github.com/your-username/risk-management-api.git
 cd risk-management-api`
 
-## Install Dependencies
 
 ## Run the Jupyter Notebook
 'bash
@@ -84,23 +83,4 @@ Open the main_notebook.ipynb file to start working with the code.
 --Builds the app for production.\
  `python run eject `\
 --Ejects the project from its current configuration.\
-## Learn More
-## Documentation
-[Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-[React documentation](https://reactjs.org/).
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
 
