@@ -76,14 +76,14 @@ Open the main_notebook.ipynb file to start working with the code.
 ## Available Scripts
 ### In the project directory, you can run:
 
-'python start'
-Runs the app in development mode.
-'python test'
-Launches the test runner.
-'python run build'
-Builds the app for production.
-'python run eject'
-Ejects the project from its current configuration.
+ `python start `\
+--Runs the app in development mode.\
+ `python test `\
+--Launches the test runner.\
+ `python run build `\
+--Builds the app for production.\
+ `python run eject `\
+--Ejects the project from its current configuration.\
 ## Learn More
 ## Documentation
 [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
